@@ -1,4 +1,4 @@
-## 1. 프로젝트 소개 — 
+## 1. 프로젝트 소개 
 - 멋쟁이사자처럼 14기 백엔드 세션 10주차 과제 
 - Spring Boot 기반 재고관리 REST API (UI 없음)
 - 이후 Docker/Docker Compose로 컨테이너화하여 배포 환경 구성
@@ -29,7 +29,7 @@ docker-compose up --build
 3. 확인
 - 서버는 http://localhost:8080 에서 응답합니다.
 
-## 4. API 예시 — 
+## 4. API 예시 
 1. 재고 등록
 ```angular2html
 POST /inventories
